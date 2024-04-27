@@ -35,7 +35,7 @@ npx expo start
 ```
 ##Preview->
 1.Home:
-![](images/home.PNG)
+<img src="images/search.PNG" alt="Search Image" width="200" height="150">
 2.Loader:
 ![](images/loader.PNG)
 3.Search:
