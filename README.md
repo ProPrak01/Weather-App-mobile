@@ -1,6 +1,6 @@
 # React Native Weather App
 
-This is a simple weather app built with React Native using Expo. It fetches weather data from the [WeatherAPI](https://www.weatherapi.com/) to provide current weather information for a given location.
+This is a weather app built made for intern assignment with React Native using Expo. It fetches weather data from the [WeatherAPI](https://www.weatherapi.com/) to provide current weather information for a given location.
 
 ## Features
 
