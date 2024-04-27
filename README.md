@@ -33,3 +33,11 @@ npm install
   ```bash
 npx expo start
 ```
+##Preview->
+1.Home:
+![](images/home.PNG)
+2.Loader:
+![](images/loader.PNG)
+3.Search:
+![](images/search.PNG)
+4.Search Result:
