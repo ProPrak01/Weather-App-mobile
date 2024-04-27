@@ -1,5 +1,13 @@
 {
   "expo": {
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow weatherApp to use your location."
+        }
+      ]
+    ],
     "name": "Weather-app",
     "slug": "Weather-app",
     "version": "1.0.0",
