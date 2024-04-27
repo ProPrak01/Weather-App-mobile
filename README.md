@@ -4,9 +4,9 @@ This is a weather app built made for intern assignment with React Native using E
 
 ## Features
 
-- Display current weather conditions
+- Display current location weather conditions when pressed on home button or when starting.
 - Get detailed weather forecast for the next few days
-- Supports searching for weather by city name or zip code
+- Supports searching for weather by city name
 - Beautiful UI design for better user experience
 
 ## Installation
@@ -40,4 +40,3 @@ npx expo start
 <br><img src="images/loader.PNG" alt="Search Image" width="400"><br>
 3.Search:
 <br><img src="images/search.PNG" alt="Search Image" width="400"><br>
-4.Search Result:
