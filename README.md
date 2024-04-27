@@ -33,7 +33,7 @@ npm install
   ```bash
 npx expo start
 ```
-##Preview->
+## Preview->
 1.Home:
 <br><img src="images/home.PNG" alt="Search Image" width="400"><br>
 2.Loader:
