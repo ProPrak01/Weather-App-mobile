@@ -15,7 +15,7 @@ To run this app on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ProPrak01/Weather-App-mobile
    ```
 2.Navigate into the project directory:
    ```bash
