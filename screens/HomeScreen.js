@@ -266,7 +266,7 @@ const getCurrentLocation = ()=>{
           >
             {weather?.forecast?.forecastday?.map((item, index) => {
                 let date = new Date(item.date);
-                let options = {weekday: 'long'};
+                let options = {weekday: 'long'}; 
                 let dayName = date.toLocaleDateString('en-US',options);
               return (
                 <View key={index} className="flex justify-center items-center w-24 rounded-2xl py-3 space-y-1 mr-4 border-black border-2 bg-yellow-200">
@@ -286,6 +286,7 @@ const getCurrentLocation = ()=>{
       </SafeAreaView>
         )
       }
+
 
     </View>
   );
